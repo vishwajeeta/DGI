@@ -11,5 +11,4 @@ contract CounterTest is Test {
         counter = new Counter();
         counter.increment();
     }
-
 }
