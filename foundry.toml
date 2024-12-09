@@ -1,3 +1,10 @@
+[default]
+solc_version = "0.8.17"
+
+[rpc_endpoints]
+localhost = "http://127.0.0.1:8545"
+
+
 [profile.default]
 src = "src"
 out = "out"
