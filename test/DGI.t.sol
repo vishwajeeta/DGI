@@ -9,7 +9,7 @@ contract CounterTest is Test {
 
     function setUp() public {
         counter = new Counter();
-        
+        counter.increment();
     }
 
 }
