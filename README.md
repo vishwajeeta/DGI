@@ -106,12 +106,3 @@ External Platforms (ZKP-based validation)
 
 ---
 
-## 👨‍💻 Authors
-
-* **Prof. Sunitha K** — Assistant Professor, Dept. of Computer Applications
-* **Mr. Vishwajeet** — Dept. of Computer Applications
-* **Rajesh Yadav** — Dept. of Computer Applications
-  Sambhram Academy of Management Studies
-
----
-
